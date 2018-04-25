@@ -84,7 +84,7 @@
         @media only screen and (min-width:550px)
         {
             .login-container{
-                margin-top: 166px;
+                margin-top: 130px;
             }
     
         }
